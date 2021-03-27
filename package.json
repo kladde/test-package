@@ -1,7 +1,7 @@
 {
-  "name": "test-package",
-  "version": "0.1.1",
-  "description": "test",
+  "name": "@kladde/test-package",
+  "version": "1.0.0",
+  "description": "foo test",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/kladde/test-package.git"
   },
-  "author": "",
+  "author": "@kladde",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kladde/test-package/issues"
