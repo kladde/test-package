@@ -1,0 +1,19 @@
+{
+  "name": "test-package",
+  "version": "0.1.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kladde/test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kladde/test-package/issues"
+  },
+  "homepage": "https://github.com/kladde/test-package#readme"
+}
